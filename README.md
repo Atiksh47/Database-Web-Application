@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# CS-348-Project
+Semester Long project for CS 348
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
